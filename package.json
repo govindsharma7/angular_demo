@@ -1,0 +1,26 @@
+{
+  "name": "my_node_app",
+  "version": "1.0.0",
+  "description": "A little test app",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://me_govindsharma@bitbucket.org/me_govindsharma/node_practices.git"
+  },
+  "keywords": [
+    "all",
+    "js",
+    "practices"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/me_govindsharma/node_practices#readme"
+}
